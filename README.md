@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on my [Portfolio Website](https://jahanzaibahmed.com).
-- 🌱 I’m currently learning AWS and Shopify App Development.
+- 🌱 I’m currently learning AWS and Nodejs.
 - 🤔 I’m looking for a Remote job as a Front-End Engineer.
 - 💬 Ask me about Shopify Apps or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
