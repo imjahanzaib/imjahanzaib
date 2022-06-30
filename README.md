@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🎓 Bachelor’s degree in Software Engineering.
-- ⚡️ A Web Developer with a good grip on basic front-end development tools including React, , HTML, CSS,Bootstrap and JavaScript along with strong grip on backend      frameworks PHP,Laravel Framework,CodeIgnitor Framework, MySQL, and OOP.
+- 👨‍💻 Web Developer with hands-on experience in React,Vue,Bootstrap,CSS,HTML,ejs,handlebars,Next.js and Material UI.
 - 🚀 Cloud Computing Enthusiast
 - 🔭 I’m currently working on my [Portfolio Website](https://jahanzaibahmed.com).
 - 🌱 I’m currently learning AWS and Nodejs.
