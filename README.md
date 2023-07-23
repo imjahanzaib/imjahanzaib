@@ -10,11 +10,9 @@
 - 🎓 Bachelor’s degree in Software Engineering.
 - 👨‍💻 Web Developer with hands-on experience in React,Vue,Bootstrap,CSS,HTML,ejs,handlebars,Next.js and Material UI.
 - 🚀 Cloud Computing Enthusiast
-- 🔭 I’m currently working on my [Portfolio Website](https://jahanzaibahmed.com).
-- 🌱 I’m currently learning AWS and Nodejs.
-- 🤔 I’m looking for a Remote job as a Front-End Engineer.
+- 🔭 CEO of [Ecom Panda LLC](https://ecompanda.co)
 - 💬 Ask me about Shopify Apps or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check the social links below.
 - ⚡ Achievement: I'm a Top Rated Plus Shopify Developer on [Upwork](https://www.upwork.com/freelancers/~01535851b88349f21a).
 
 ## 🌐 Socials
